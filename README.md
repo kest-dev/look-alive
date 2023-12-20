@@ -1,5 +1,4 @@
 # Look Alive
----
 A Trello-like card based task manager using Vue 3, Typescript, and Bootstrap.
 
 Features:
